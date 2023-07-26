@@ -1,0 +1,16 @@
+CommitteeTime=360000
+CommitteeCount=4
+SeedNode=172.25.250.53
+EsPort=9003
+CAPublicKey=020fc188688137b9c624e7045fdb6fa4d02ad6c0a92694e72be31801fa36d64d5f
+Caip=192.168.137.214
+CAPort=9004
+Iotip=127.0.0.1
+IotPort=9001
+GateWayip=127.0.0.1
+GateWayPort=9002
+CloundIp=172.25.250.59
+Cport=9005
+
+
+

@@ -1,0 +1,5 @@
+CAPort=9004
+EsPort=9003
+CommitteeTime=360000
+CommitteeCount=4
+init=180000

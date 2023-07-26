@@ -1,0 +1,8 @@
+GateWayPort=9002
+Iotip=127.0.0.1
+IotPort=9001
+Esip=127.0.0.1
+EsPort=9003
+CAPublicKey=020fc188688137b9c624e7045fdb6fa4d02ad6c0a92694e72be31801fa36d64d5f
+Caip=172.25.250.58
+CAPort=9004

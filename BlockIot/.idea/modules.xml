@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlockIot.iml" filepath="$PROJECT_DIR$/BlockIot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlockIot-crypto/BlockIot-crypto.iml" filepath="$PROJECT_DIR$/BlockIot-crypto/BlockIot-crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlockIot-net/BlockIot-net.iml" filepath="$PROJECT_DIR$/BlockIot-net/BlockIot-net.iml" />
+    </modules>
+  </component>
+</project>

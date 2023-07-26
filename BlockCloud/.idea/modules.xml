@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlockCloud.iml" filepath="$PROJECT_DIR$/BlockCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blockchain-core/blockchain-core.iml" filepath="$PROJECT_DIR$/blockchain-core/blockchain-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blockchain-crypto/blockchain-crypto.iml" filepath="$PROJECT_DIR$/blockchain-crypto/blockchain-crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blockchain-dto/blockchain-dto.iml" filepath="$PROJECT_DIR$/blockchain-dto/blockchain-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blockchain-netcore/blockchain-netcore.iml" filepath="$PROJECT_DIR$/blockchain-netcore/blockchain-netcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blockchain-setting/blockchain-setting.iml" filepath="$PROJECT_DIR$/blockchain-setting/blockchain-setting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blockchain-util/blockchain-util.iml" filepath="$PROJECT_DIR$/blockchain-util/blockchain-util.iml" />
+    </modules>
+  </component>
+</project>
