@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlockCA.iml" filepath="$PROJECT_DIR$/BlockCA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlockCA-crypto/BlockCA-crypto.iml" filepath="$PROJECT_DIR$/BlockCA-crypto/BlockCA-crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlockCA-net/BlockCA-net.iml" filepath="$PROJECT_DIR$/BlockCA-net/BlockCA-net.iml" />
+    </modules>
+  </component>
+</project>
