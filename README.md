@@ -1,2 +1,2 @@
-# TBEdge_Blockchian
+# TBEdge
 Java-based blockchain prototype system
