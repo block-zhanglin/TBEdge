@@ -7,8 +7,6 @@ import java.util.List;
 
 /**
  * 未确认交易数据库
- * 所有没有持久化到区块链的交易，都应该尽可能的被收集起来。
- * 其它对象可以从这里获取未确认交易数据，然后进行自己的活动。例如矿工可以从这里获取挖矿的原材料(未确认交易数据)进行挖矿活动。
  *
  */
 public abstract class UnconfirmedTransactionDatabase {
