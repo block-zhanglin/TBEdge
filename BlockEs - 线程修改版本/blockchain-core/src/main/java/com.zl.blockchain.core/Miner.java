@@ -29,8 +29,6 @@ public abstract class Miner {
     /**
      * 启用矿工。
      * 矿工有两种状态：活动状态与非活动状态。
-     * 若矿工处于活动作态，矿工会进行挖矿劳作。
-     * 若矿工处于非活动状态，矿工不会进行任何工作。
      */
     public abstract void start(Account account, ToCaresponse toCaresponse) ;
 
