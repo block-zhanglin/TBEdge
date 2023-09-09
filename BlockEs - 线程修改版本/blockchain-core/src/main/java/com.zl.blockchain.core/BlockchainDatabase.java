@@ -74,9 +74,6 @@ public abstract class BlockchainDatabase {
 
     /**
      * 校验交易是否可以被添加进下一个区块之中。
-     * 注意，如果是创世交易，则会跳过激励金额的校验，但除了不校验激励金额外，仍然会校验创世交易的方方面面，如交易大小、交易的结构等。
-     * 为什么会跳过创世交易的激励金额的校验？
-     * 因为激励金额的校验需要整个区块的信息，因此激励校验是区块层面的校验，而不是在交易层面校验激励金额。
      */
     public abstract boolean checkTransaction(Transaction transaction) ;
     //endregion
